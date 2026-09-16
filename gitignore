@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Java build output
+out/
+build/
+target/
+*.class
+*.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
